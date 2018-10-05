@@ -1,0 +1,29 @@
+/* TITLE STYLES */
+.titleBox{
+  margin: auto;
+  width: 50%;
+}
+.titleBox h1{
+  font-size: 4em;
+  color: blue;
+  text-align: center;
+  margin-bottom: .2em;
+}
+.titleBox img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+.titleBox h2{
+  font-size: 1.7em;
+  color: black;
+  text-align: center;
+}
+/* NAVIGATION BAR*/
+.navigationBar{
+  width : 75%;
+  margin: auto;
+}
+.navigationBar th{
+  border: 1px solid black;
