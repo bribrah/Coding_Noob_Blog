@@ -15,6 +15,9 @@
   margin-right: auto;
   width: 35%;
 }
+.titleBox p{
+  text-align: center;
+}
 .titleBox h2{
   font-size: 1.7em;
   color: black;
@@ -32,6 +35,19 @@
   width: 24%;
   float: left;
   border: 2px solid black;
-
-
+}
+/*PARAGRAPH STYLES*/
+.aboutMe{
+  width: 80%;
+  margin: auto;
+}
+.aboutMe p{
+  font-size: 1.2em;
+}
+.blogPost{
+  width: 80%;
+  margin: auto;
+}
+.blogPost p{
+  font-size: 1.2em;
 }
