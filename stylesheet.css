@@ -26,4 +26,12 @@
   margin: auto;
 }
 .navigationBar th{
-  border: 1px solid black;
+  display: block;
+  margin-left: 0;
+  margin-right: 0;
+  width: 24%;
+  float: left;
+  border: 2px solid black;
+
+
+}
