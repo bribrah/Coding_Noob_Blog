@@ -36,6 +36,9 @@
   float: left;
   border: 2px solid black;
 }
+.navigationBar a{
+  text-decoration: none;
+}
 /*PARAGRAPH STYLES*/
 .aboutMe{
   width: 80%;
