@@ -54,3 +54,23 @@
 .blogPost p{
   font-size: 1.2em;
 }
+.blogImgRight{
+  float: right;
+}
+.blogImgRight p{
+
+}
+
+.blogImgLeft{
+  float: left;
+}
+
+.smallImg{
+  width: 250px;
+}
+.medImg{
+  width: 25%
+}
+.lrgImg{
+  width: 35%
+}
