@@ -47,6 +47,8 @@
 .aboutMe p{
   font-size: 1.2em;
 }
+
+
 .blogPost{
   width: 80%;
   margin: auto;
@@ -57,12 +59,17 @@
 .blogImgRight{
   float: right;
 }
-.blogImgRight p{
-
+.blogCapRight p{
+display: block;
+float: right;
 }
-
 .blogImgLeft{
   float: left;
+}
+
+.contactMe{
+  width: 80%;
+  margin: auto;
 }
 
 .smallImg{
