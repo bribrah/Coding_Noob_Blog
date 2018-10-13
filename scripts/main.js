@@ -1,1 +1,1 @@
-alert("This website is still under Construction! Please come back soon to view it's progress or feel free to read my first blog post!");
+alert("This website is still under Construction! Please come back soon to view it's progress and feel free to read my first blog post! :)");
